@@ -1,0 +1,7 @@
+ 
+	Codigo de producto: 
+	Nombre del producto: 
+	Peso del producto: 
+	Marca del producto: 
+	Region de colombia de donde proviene: 
+	

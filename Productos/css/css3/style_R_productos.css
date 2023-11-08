@@ -1,0 +1,184 @@
+#contenedor{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+	position: relative;
+
+}
+
+body{
+	
+	background: white;
+}
+
+header{
+	width: 1200px;
+	height: 100px;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	background:brown;
+	
+}
+
+nav{
+	width: 1200px;
+	height: 57px;
+	font-family: 'lato';
+	background-color: brown;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-color: #004668;
+	margin-top: 45px;
+}
+p{
+	color: white;
+	font-size: 15px;
+	
+	font-family: 'lato';
+	background: #008000: 
+}
+
+h1{
+	
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Lato';
+	color:white;
+	
+}
+
+h2{
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Lato';	
+}
+
+
+
+}
+
+ul{
+	margin: auto;
+	padding-top: 4px;	
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	margin: 5px;  
+}
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+}
+
+.menu:link{color:white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; background: #e7b200;}
+.menu:active{color: white; text-decoration: none;}
+
+section{
+	width: 680px;
+	height: 1130px;
+	float: left;
+	font-family: 'lato';
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	background: white;
+}
+
+
+aside{
+	width: 498px;
+	height: 500px;
+	float: left;;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	background: #1E59C8;
+}
+
+footer{
+	width: 1200px;
+	height: 200px;
+	float: left;
+	background: brown;
+	color: white;
+	border-style:solid;
+	border-color: black;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+}
+
+p{
+	padding: 10px;
+	text-align: justify;
+}
+
+h5{
+	font-family: 'lato';
+	padding: 7px;
+	font-size: 25px;
+}
+
+#img1{
+	padding: 20px;
+	width: 500px;
+
+}
+
+#img2{
+	padding: 10px;
+	width: 500px;
+	height: 140px;
+	font-size: 25px;
+}
+
+#logo{
+	padding: 10px;
+}
+
+#footer{
+	padding: 10px;
+	font-size: 40px;
+	text-decoration: bold;
+}
+
+textarea{
+	width:200px;
+	height: 70px;
+	font:14px normal normal uppercase helvetica, arial, serif ;
+}
+
+h6{
+	padding: 10px;
+	font-family: 'lato';
+	color: black;
+	text-align: justify;
+	font-size: 18px;
+}
+
+h4{
+	font-family: 'lato';
+	padding: 10px;
+	font-size: 18px;
+	color: black;
+	text-align: left;
+}
+

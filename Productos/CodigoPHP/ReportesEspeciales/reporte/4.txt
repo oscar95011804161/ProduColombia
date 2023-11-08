@@ -1,0 +1,7 @@
+﻿ 
+	Codigo de producto: 4
+	Nombre del producto: zapatos
+	Peso del producto: 300 gr
+	Marca del producto: Producolombia
+	Region de colombia de donde proviene: Bogotá
+	

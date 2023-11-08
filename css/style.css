@@ -1,0 +1,185 @@
+#contenedor{
+
+
+	width: 1200px;
+	height:auto;
+	margin:auto;
+	position: relative;
+}
+
+body{
+	background-image: url(../img/index/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: 2580px;
+
+}
+header{
+
+	width: 1200px;
+	height: 120px;
+	border-style:solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+	margin-top: 20px; 
+	background:brown;
+}
+
+
+
+nav{
+	width: 1200px;
+	height: 50px;
+	background: brown;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px; 
+	border-style:solid;
+	border-color: #004669;
+}
+
+ul {
+
+	margin: auto;
+	padding-top: 4px; 
+}
+
+
+
+li{
+
+   float:left;
+   list-style-type: none;
+   
+   margin: 5px;
+
+}
+
+
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+}
+
+
+.menu:link{color:white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; background: #e7b200; }
+.menu:active{color: white; text-decoration: none;}
+
+/*background:#004669; */
+
+.submenu:link{color:white; text-decoration: none;}
+.submenu:visited{color: white; text-decoration: none;}
+.submenu:hover{color: white; text-decoration: none; background: #004669; }
+.submenu:active{color: white; text-decoration: none;}
+
+
+
+
+
+
+section{
+	width:730px;
+	height:1320px;
+	float:left;
+	border-style:solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+	background:white;
+
+}
+
+aside{
+	width:435px;
+	height:1320px;
+	float:left;
+	border-style:solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	background:brown;
+}
+
+footer{
+	width: 1200px;
+	height: 150px;
+	background:brown; 
+	float: left;
+	
+	color: white;
+	border-style:solid;
+	border-color: black;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+	
+	
+}
+
+p{
+	padding: 10px;
+	text-align: justify;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'showcard gothic';
+}
+
+h2{
+    color: #004669;
+    font-size: 20px;
+    text-align: center;
+}
+
+h3{
+	padding: 10px;
+
+}
+
+h4{
+	padding: 10px;
+
+}
+
+h5{
+	padding: 10px;
+}
+
+h6{
+ 	
+	font-family: 'showcard gothic';
+	padding: 10px;
+	font-size: 20px;
+}
+
+
+
+#logo{
+	padding: 30px;
+	width: 500px;
+	height: 400px;
+}
+
+#footer{
+
+	padding: 10px;
+	font-size: 25px;
+	text-decoration: bold; 
+}
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+ 
+	Codigo de producto: 1
+	Nombre del producto: chaqueta
+	Peso del producto: 400 gr
+	Marca del producto: Producolombia
+	Region de colombia de donde proviene: Bogotá
+	

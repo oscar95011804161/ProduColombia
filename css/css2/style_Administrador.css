@@ -1,0 +1,168 @@
+#contenedor{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+	position: relative;
+
+}
+
+body{
+	background: white;
+}
+
+header{
+	width: 1200px;
+	height: 150px;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+p{
+	color: white;
+	font-size: 15px;
+	
+	font-family: 'arial';
+	background: #008000: 
+}
+
+h1{
+	color: red;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Broadway';
+	background: #008000: 
+}
+
+h2{
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'arial';	
+}
+
+nav{
+	width: 1200px;
+	height: 50px;
+	font-family: 'Calibri';
+	background-color: #E02929;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-color: #004668;
+}
+
+ul{
+	margin: auto;
+	padding-top: 4px;	
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	margin: 5px;  
+}
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+	color: black;
+}
+
+.menu:link{color:white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; background: #e7b200;}
+.menu:active{color: white; text-decoration: none;}
+
+section{
+	width: 680px;
+	height: 1000px;
+	float: left;
+	font-family: 'Calibri';
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	background: white;
+}
+
+aside{
+	width: 488px;
+	height: 500px;
+	float: left;;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	background: #1E59C8;
+}
+
+footer{
+	width: 1200px;
+	height: 200px;
+	
+	float: left;
+	background: red;
+	color: white;
+	border-style:solid;
+	border-color: black;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+}
+
+p{
+	padding: 10px;
+	text-align: justify;
+}
+
+h5{
+	font-family: 'Calibri';
+	padding: 7px;
+	font-size: 25px;
+}
+
+#img1{
+	padding: 20px;
+	width: 500px;
+
+}
+
+#img2{
+	padding: 10px;
+	width: 500px;
+	height: 140px;
+	font-size: 25px;
+}
+
+#logo{
+	padding: 10px;
+}
+
+#footer{
+	padding: 10px;
+	font-size: 40px;
+	text-decoration: bold;
+}
+
+
+h6{
+	padding: 10px;
+	color: white;
+	font-size: 18px;
+}
+
+h4{
+	font-family: 'Calibri';
+	padding: 10px;
+	font-size: 18px;
+	color: white;
+}
+
